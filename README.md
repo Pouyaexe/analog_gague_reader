@@ -4,7 +4,7 @@ This sample application takes an image or video frame of an analog gauge and rea
 It consists of two parts: calibration and measurement.  During calibration, the application calibrates an image 
 of a gauge (provided by the user) by prompting the user to enter the range of gauge values in degrees.  It then uses these 
 calibrated values in the measurement stage to convert the angle of the dial into a meaningful value.
-
+The main code is from Intel
 ## What you’ll learn
   * Circle detection
   * Line detection
